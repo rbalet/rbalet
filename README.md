@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there, nice to meet you 👋
 
-<!--
-**rbalet/rbalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Want to chat ?
+|Where|How|
+|---|---|
+| 📧 Email | raphael.balet@outlook.com |
+| 🌎 Languages | 🇫🇷 🇺🇸 🇩🇪 🇪🇸 |  
 
-Here are some ideas to get you started:
+### Care to know ?
+|What|Where|
+|---|---|
+| 👔 Work | https://www.bit.admin.ch/ |
+| 🚧 Side project | https://up4it.io/ |  
+|📖 Learning | 🇪🇸 & Go |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Not enough ?
+![Raphaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalet&show_icons=true&theme=dracula)  
+_Ps: Mostly working on private repo_ 😿
