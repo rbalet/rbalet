@@ -14,5 +14,8 @@
 |📖 Learning | 🇪🇸 & Go |
 
 ### Not enough ?
-![Raphaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalet&show_icons=true&theme=dracula)  
+| GitHub Stats | Top langs |
+| --- | --- |
+|![Raphaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalet&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbalet&layout=compact&theme=dracula) |
+
 _Ps: Mostly working on private repo_ 😿
