@@ -15,6 +15,7 @@ Pick one of the following ;)
 |---|---|
 | 👔 Work | https://www.bit.admin.ch/ |
 | 🚧 Side project | https://up4it.io/ |  
+| 💁‍♂️ Me | https://raphaelbalet.ch/ |  
 |📖 Learning |  Go ,🇮🇹 & 🇪🇸 |
 
 ### And what I use
