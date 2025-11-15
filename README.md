@@ -1,4 +1,4 @@
-```md
+```shell
 > Front-end expert passionate about open source and building meaningful, human-centered products.
 
 rbalet@github
