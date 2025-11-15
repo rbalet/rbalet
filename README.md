@@ -18,12 +18,8 @@ Pick one of the following ;)
 | 💁‍♂️ Me | https://raphaelbalet.ch/ |  
 |📖 Learning |  Go ,🇮🇹 & 🇪🇸 |
 
-### And what I use
-| GitHub Stats | Top langs | 
-| --- | --- |
-|![Raphaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalet&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbalet&layout=compact&theme=dracula) |
 
-_Ps: Mostly working on private repo_ 😿
+![Raphaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalet&show_icons=true&theme=dracula) 
 
 
 ### Also on socials
