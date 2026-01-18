@@ -3,14 +3,14 @@
 
 rbalet@github
 ──────────────                                                    ʕ•ᴥ•ʔ
-Bio: Frontend Expert (8+ yrs Angular), OSS Builder                /　 ⌒ヽ
+Bio: Frontend Expert (9+ yrs Angular), OSS Builder                /　 ⌒ヽ
 Status: Building Up4it • Social Impact Dev                       (   ㅅ  )
 Mission: Reducing human loneliness.                               Ｕ  Ｕ
 
 Skills:
   ├─ Frontend: Angular (expert), HTML/CSS, RxJS
-  ├─ Backend: NestJS, Drizzle, Zod
-  ├─ Infra: Docker, Directus, PostgreSQL, Better-Auth
+  ├─ Backend: NestJS, Drizzle, Zod, 
+  ├─ Infra: Docker, Directus, PostgreSQL, Better-Auth, Resend
   └─ Interests: UX for wellbeing, Social apps, OSS
 
 Lang:
@@ -23,7 +23,7 @@ Lang:
 About:
   ├─ Work:          Swiss Federal Office of IT (BIT)
   ├─ Side Project:  The Corner & Up4it — Social app to reduce loneliness
-  └─ Website:       raphaelbalet.ch
+  └─ Website:       https://raphaelbalet.ch
 ```
 
 ## Stats
