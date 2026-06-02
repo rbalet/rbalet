@@ -14,7 +14,7 @@ Skills:
   └─ Interests: UX for wellbeing, Social apps, OSS
 
 Lang:
-  ├─ French:     [ ████████████░░░ ] Native
+  ├─ French:     [ █████████████░ ] Native
   ├─ English:    [ ██████████▉░░░ ] Fluent
   ├─ German:     [ ██████████▉░░░ ] Fluent
   ├─ Spanish:    [ ██░░░░░░░░░░░░ ] A1
